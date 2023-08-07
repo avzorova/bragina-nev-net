@@ -1,0 +1,44 @@
+main {
+  text-align: center;
+}
+.scroll {
+  width: 25px;
+  color: #ffffff33;
+}
+.scroll span {
+}
+.scroll li {
+  height: 14px;
+  width: 14px;
+  background: #ffffff33;
+  border-radius: 50%;
+}
+.scroll .check {
+  background: #ad9b91cc;
+}
+.scroll p,
+.scroll ul,
+.scroll li {
+  margin: 0;
+  padding: 0;
+}
+.scroll li {
+  margin: 10px 0;
+}
+.scroll p {
+  height: 100px;
+  margin-left: 6px;
+  border: 1px solid #ffffff33;
+  width: 0px;
+  background: #ffffff33;
+}
+header {
+  background: #000;
+}
+.block-2 {
+  background: url("images/3d-abstract.png");
+}
+.block-3 {
+  background: url("images/IMAGE.png");
+  height: 500px;
+}
